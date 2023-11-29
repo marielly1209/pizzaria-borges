@@ -5,7 +5,7 @@ color: white;
 }
 p{
     color:white;
-    font-size: 40px;
+    font-size: 35px;
 }
 #missao{
     color:yellow;
@@ -14,4 +14,8 @@ p{
 }
 #banner{
 
+}
 
+#lista{
+    font-size: 37px; 
+}
