@@ -20,3 +20,11 @@ p{
     font-size: 45px; 
 }
 
+#conteudo{
+    display: flex;
+    margin-left: 300px;
+}
+#pizza{
+    margin-left: 100px;
+}
+}
